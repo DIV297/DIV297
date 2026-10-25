@@ -2,41 +2,6 @@
   "username": "DIV297",
   "days": [
     {
-      "date": "2025-10-19",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-10-20",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-10-21",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-10-22",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-10-23",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-10-24",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-10-25",
-      "level": 0,
-      "count": 0
-    },
-    {
       "date": "2025-10-26",
       "level": 0,
       "count": 0
@@ -1853,19 +1818,24 @@
     },
     {
       "date": "2026-10-24",
-      "level": 0,
-      "count": 0
+      "level": 3,
+      "count": 27
+    },
+    {
+      "date": "2026-10-25",
+      "level": 1,
+      "count": 12
     }
   ],
   "stats": {
-    "total": 3434,
-    "current_streak": 19,
-    "longest_streak": 20,
+    "total": 3473,
+    "current_streak": 21,
+    "longest_streak": 21,
     "best_day": {
       "date": "2026-04-25",
       "count": 68
     },
-    "active_days": 212,
+    "active_days": 214,
     "busiest_weekday": "Tuesday",
     "monthly": {
       "2025-10": 0,
@@ -1880,11 +1850,11 @@
       "2026-07": 458,
       "2026-08": 299,
       "2026-09": 264,
-      "2026-10": 301
+      "2026-10": 340
     },
     "range": [
-      "2025-10-19",
-      "2026-10-24"
+      "2025-10-26",
+      "2026-10-25"
     ]
   }
 }
